@@ -7,3 +7,6 @@ td,
 th {
     border: none;
 }
+.celdas{
+    border: 1px solid blue;
+}
